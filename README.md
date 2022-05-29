@@ -1,5 +1,5 @@
 # cryptonight-miner
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gl/WoodcoinLog%2Fnodexmr/main)
 Cryptonight Miner (Monero XMR)
 
 [![npm package](https://nodei.co/npm/anifgoran.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/anifgoran/)
