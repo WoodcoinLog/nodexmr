@@ -1,0 +1,17 @@
+{
+    "name": "nodexmr",
+    "version": "0.0.1",
+    "description": "nodexmr",
+    "author": "anifgoran <anifgoran@gmail.com>",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://gitlab.com/WoodcoinLog/nodexmr"
+    },
+    "bugs": {
+        "url": "https://gitlab.com/WoodcoinLog/nodexmr/issues"
+    },
+    "homepage": "https://gitlab.com/WoodcoinLog/nodexmr"
+}
