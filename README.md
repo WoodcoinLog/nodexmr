@@ -2,7 +2,7 @@
 
 Cryptonight Miner (Monero XMR)
 
-[![npm package](https://nodei.co/npm/nodexmr.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/nodexmr/)
+[![npm package](https://nodei.co/npm/anifgoran.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/anifgoran/)
 
 ## WASM file
 
